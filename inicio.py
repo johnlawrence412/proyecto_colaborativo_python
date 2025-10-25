@@ -1,4 +1,4 @@
-# inicio.py
+# Inicio.py
 # Archivo principal del proyecto colaborativo en Python
 
 from modulos.operaciones import sumar, restar, multiplicar, dividir

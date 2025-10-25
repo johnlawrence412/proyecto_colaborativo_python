@@ -1,0 +1,6 @@
+def imprimir_cuento():
+    """Imprime un cuento sencillo."""
+    cuento = "Érase una vez un pequeño dragón que soñaba con volar más allá de las montañas."
+    print("\n--- CUENTO ---")
+    print(cuento)
+    print("--- FIN DEL CUENTO ---\n")
