@@ -2,7 +2,6 @@
 Proyecto colaborativo en Python con tres módulos y participación grupal.
 # 🧩 Proyecto Colaborativo en Python
 
-## 🧾 Enunciado
 Este proyecto tiene como objetivo crear un **repositorio colaborativo en GitHub** donde un grupo trabaje conjuntamente en un proyecto en **Python**.  
 
 ---
