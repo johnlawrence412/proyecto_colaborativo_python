@@ -17,6 +17,7 @@ Este proyecto tiene como objetivo crear un **repositorio colaborativo en GitHub*
 
 ## 👥 2. Integrantes del Equipo
 - John Roa (@johnlawrence412)
+- Jonathan Vergara
 -
 -
 -

@@ -1,4 +1,4 @@
-from matematicas import suma, resta, multiplicacion, division
+from matematicas import suma, resta, multiplicacion, division, potencias
 from cuento import imprimir_cuento
 from utilidades import en_mayusculas
 
@@ -10,6 +10,7 @@ def main():
     print("Resta:", resta(10, 7))
     print("Multiplicación:", multiplicacion(4, 5))
     print("División:", division(8, 2))
+    print("Potencia:", potencias(2, 3))
     
     print("\nCuento:")
     imprimir_cuento()
