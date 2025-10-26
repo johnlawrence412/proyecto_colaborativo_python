@@ -1,3 +1,5 @@
+import math
+
 def suma(a, b):
     return a + b
 
@@ -12,3 +14,6 @@ def division(a, b):
         return a / b
     else:
         return "Error: no se puede dividir entre cero"
+    
+def potencias(base, potencia):
+    return math.pow(base, potencia)
